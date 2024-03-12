@@ -27,6 +27,7 @@ export default [
       Leetcode: "https://leetcode.com",
       Handshake: "https://app.joinhandshake.com/stu/postings",
       Indeed: "https://www.indeed.com/",
+      Sophos: "https://172.25.209.10:4444/",
     },
   },
   {
@@ -38,7 +39,8 @@ export default [
       Fmovies: "https://fmovies.to/home",
       Zoro: "https://zoro.to",
       TempMail: "https://tempmail.email/",
-      // IPTorrents: "https://iptorrents.com/t",
+      IPTorrents: "https://iptorrents.com/t",
+      Reddit: "https://www.reddit.com/",
     },
   },
 ];
